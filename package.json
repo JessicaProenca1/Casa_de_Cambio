@@ -19,11 +19,12 @@
   },
   "homepage": "https://github.com/JessicaProenca1/Casa_de_Cambio#readme",
   "dependencies": {
+    "sweetalert2": "^11.6.8",
     "vite": "^3.2.3"
   },
-  "type": "module",
   "devDependencies": {
     "eslint": "^8.27.0",
     "eslint-plugin-react": "^7.31.10"
-  }
+  },
+  "type": "module"
 }
